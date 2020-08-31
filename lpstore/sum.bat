@@ -1,0 +1,1 @@
+type *.txt >> sum.txt
